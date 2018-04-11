@@ -1,7 +1,7 @@
 {
   "name": "react-jam-icons",
   "version": "1.0.0",
-  "description": "Jam icons as React Components via svgr",
+  "description": "Jam icons as React Components",
   "main": "src/index.js",
   "repository": "https://github.com/tiaanduplessis/react-jam-icons.git",
   "author": "Tiaan du Plessis",
