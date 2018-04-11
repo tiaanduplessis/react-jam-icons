@@ -6,5064 +6,3800 @@ Object.defineProperty(exports, "__esModule", {
 
 var _AlignCenter = require('./icons/AlignCenter');
 
-Object.keys(_AlignCenter).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AlignCenter[key];
-    }
-  });
+Object.defineProperty(exports, 'AlignCenter', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AlignCenter).default;
+  }
 });
 
 var _AlignJustify = require('./icons/AlignJustify');
 
-Object.keys(_AlignJustify).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AlignJustify[key];
-    }
-  });
+Object.defineProperty(exports, 'AlignJustify', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AlignJustify).default;
+  }
 });
 
 var _AlignLeft = require('./icons/AlignLeft');
 
-Object.keys(_AlignLeft).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AlignLeft[key];
-    }
-  });
+Object.defineProperty(exports, 'AlignLeft', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AlignLeft).default;
+  }
 });
 
 var _AlignRight = require('./icons/AlignRight');
 
-Object.keys(_AlignRight).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AlignRight[key];
-    }
-  });
+Object.defineProperty(exports, 'AlignRight', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AlignRight).default;
+  }
 });
 
 var _Amazon = require('./icons/Amazon');
 
-Object.keys(_Amazon).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Amazon[key];
-    }
-  });
+Object.defineProperty(exports, 'Amazon', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Amazon).default;
+  }
 });
 
 var _Anchor = require('./icons/Anchor');
 
-Object.keys(_Anchor).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Anchor[key];
-    }
-  });
+Object.defineProperty(exports, 'Anchor', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Anchor).default;
+  }
 });
 
 var _AngleDown = require('./icons/AngleDown');
 
-Object.keys(_AngleDown).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AngleDown[key];
-    }
-  });
+Object.defineProperty(exports, 'AngleDown', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AngleDown).default;
+  }
 });
 
 var _AngleLeft = require('./icons/AngleLeft');
 
-Object.keys(_AngleLeft).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AngleLeft[key];
-    }
-  });
+Object.defineProperty(exports, 'AngleLeft', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AngleLeft).default;
+  }
 });
 
 var _AngleRight = require('./icons/AngleRight');
 
-Object.keys(_AngleRight).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AngleRight[key];
-    }
-  });
+Object.defineProperty(exports, 'AngleRight', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AngleRight).default;
+  }
 });
 
 var _AngleTop = require('./icons/AngleTop');
 
-Object.keys(_AngleTop).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _AngleTop[key];
-    }
-  });
+Object.defineProperty(exports, 'AngleTop', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_AngleTop).default;
+  }
 });
 
 var _Apple = require('./icons/Apple');
 
-Object.keys(_Apple).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Apple[key];
-    }
-  });
+Object.defineProperty(exports, 'Apple', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Apple).default;
+  }
 });
 
 var _ArrowBottom = require('./icons/ArrowBottom');
 
-Object.keys(_ArrowBottom).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowBottom[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowBottom', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowBottom).default;
+  }
 });
 
 var _ArrowBottomCircle = require('./icons/ArrowBottomCircle');
 
-Object.keys(_ArrowBottomCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowBottomCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowBottomCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowBottomCircle).default;
+  }
 });
 
 var _ArrowDownLeft = require('./icons/ArrowDownLeft');
 
-Object.keys(_ArrowDownLeft).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowDownLeft[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowDownLeft', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowDownLeft).default;
+  }
 });
 
 var _ArrowDownRight = require('./icons/ArrowDownRight');
 
-Object.keys(_ArrowDownRight).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowDownRight[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowDownRight', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowDownRight).default;
+  }
 });
 
 var _ArrowDownSm = require('./icons/ArrowDownSm');
 
-Object.keys(_ArrowDownSm).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowDownSm[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowDownSm', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowDownSm).default;
+  }
 });
 
 var _ArrowLeft = require('./icons/ArrowLeft');
 
-Object.keys(_ArrowLeft).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowLeft[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowLeft', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowLeft).default;
+  }
 });
 
 var _ArrowLeftCircle = require('./icons/ArrowLeftCircle');
 
-Object.keys(_ArrowLeftCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowLeftCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowLeftCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowLeftCircle).default;
+  }
 });
 
 var _ArrowLeftSm = require('./icons/ArrowLeftSm');
 
-Object.keys(_ArrowLeftSm).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowLeftSm[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowLeftSm', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowLeftSm).default;
+  }
 });
 
 var _ArrowRight = require('./icons/ArrowRight');
 
-Object.keys(_ArrowRight).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowRight[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowRight', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowRight).default;
+  }
 });
 
 var _ArrowRightCircle = require('./icons/ArrowRightCircle');
 
-Object.keys(_ArrowRightCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowRightCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowRightCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowRightCircle).default;
+  }
 });
 
 var _ArrowRightSm = require('./icons/ArrowRightSm');
 
-Object.keys(_ArrowRightSm).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowRightSm[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowRightSm', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowRightSm).default;
+  }
 });
 
 var _ArrowTop = require('./icons/ArrowTop');
 
-Object.keys(_ArrowTop).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowTop[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowTop', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowTop).default;
+  }
 });
 
 var _ArrowTopCircle = require('./icons/ArrowTopCircle');
 
-Object.keys(_ArrowTopCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowTopCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowTopCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowTopCircle).default;
+  }
 });
 
 var _ArrowTopLeft = require('./icons/ArrowTopLeft');
 
-Object.keys(_ArrowTopLeft).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowTopLeft[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowTopLeft', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowTopLeft).default;
+  }
 });
 
 var _ArrowTopRight = require('./icons/ArrowTopRight');
 
-Object.keys(_ArrowTopRight).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowTopRight[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowTopRight', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowTopRight).default;
+  }
 });
 
 var _ArrowTopSm = require('./icons/ArrowTopSm');
 
-Object.keys(_ArrowTopSm).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowTopSm[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowTopSm', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowTopSm).default;
+  }
 });
 
 var _ArrowsCorners = require('./icons/ArrowsCorners');
 
-Object.keys(_ArrowsCorners).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowsCorners[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowsCorners', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowsCorners).default;
+  }
 });
 
 var _ArrowsFullscreen = require('./icons/ArrowsFullscreen');
 
-Object.keys(_ArrowsFullscreen).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowsFullscreen[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowsFullscreen', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowsFullscreen).default;
+  }
 });
 
 var _ArrowsH = require('./icons/ArrowsH');
 
-Object.keys(_ArrowsH).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowsH[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowsH', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowsH).default;
+  }
 });
 
 var _ArrowsV = require('./icons/ArrowsV');
 
-Object.keys(_ArrowsV).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ArrowsV[key];
-    }
-  });
+Object.defineProperty(exports, 'ArrowsV', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ArrowsV).default;
+  }
 });
 
 var _Attachement = require('./icons/Attachement');
 
-Object.keys(_Attachement).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Attachement[key];
-    }
-  });
+Object.defineProperty(exports, 'Attachement', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Attachement).default;
+  }
 });
 
 var _Backpack = require('./icons/Backpack');
 
-Object.keys(_Backpack).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Backpack[key];
-    }
-  });
+Object.defineProperty(exports, 'Backpack', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Backpack).default;
+  }
 });
 
 var _Backward = require('./icons/Backward');
 
-Object.keys(_Backward).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Backward[key];
-    }
-  });
+Object.defineProperty(exports, 'Backward', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Backward).default;
+  }
 });
 
 var _BackwardF = require('./icons/BackwardF');
 
-Object.keys(_BackwardF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BackwardF[key];
-    }
-  });
+Object.defineProperty(exports, 'BackwardF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BackwardF).default;
+  }
 });
 
 var _Balloon = require('./icons/Balloon');
 
-Object.keys(_Balloon).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Balloon[key];
-    }
-  });
+Object.defineProperty(exports, 'Balloon', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Balloon).default;
+  }
 });
 
 var _Bandage = require('./icons/Bandage');
 
-Object.keys(_Bandage).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Bandage[key];
-    }
-  });
+Object.defineProperty(exports, 'Bandage', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Bandage).default;
+  }
 });
 
 var _BarChart = require('./icons/BarChart');
 
-Object.keys(_BarChart).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BarChart[key];
-    }
-  });
+Object.defineProperty(exports, 'BarChart', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BarChart).default;
+  }
 });
 
 var _Baseball = require('./icons/Baseball');
 
-Object.keys(_Baseball).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Baseball[key];
-    }
-  });
+Object.defineProperty(exports, 'Baseball', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Baseball).default;
+  }
 });
 
 var _Basketball = require('./icons/Basketball');
 
-Object.keys(_Basketball).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Basketball[key];
-    }
-  });
+Object.defineProperty(exports, 'Basketball', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Basketball).default;
+  }
 });
 
 var _BatteryCharging = require('./icons/BatteryCharging');
 
-Object.keys(_BatteryCharging).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BatteryCharging[key];
-    }
-  });
+Object.defineProperty(exports, 'BatteryCharging', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BatteryCharging).default;
+  }
 });
 
 var _BatteryEmpty = require('./icons/BatteryEmpty');
 
-Object.keys(_BatteryEmpty).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BatteryEmpty[key];
-    }
-  });
+Object.defineProperty(exports, 'BatteryEmpty', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BatteryEmpty).default;
+  }
 });
 
 var _BatteryFull = require('./icons/BatteryFull');
 
-Object.keys(_BatteryFull).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BatteryFull[key];
-    }
-  });
+Object.defineProperty(exports, 'BatteryFull', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BatteryFull).default;
+  }
 });
 
 var _BatteryQuarter = require('./icons/BatteryQuarter');
 
-Object.keys(_BatteryQuarter).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BatteryQuarter[key];
-    }
-  });
+Object.defineProperty(exports, 'BatteryQuarter', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BatteryQuarter).default;
+  }
 });
 
 var _BatteryTwoQuarter = require('./icons/BatteryTwoQuarter');
 
-Object.keys(_BatteryTwoQuarter).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BatteryTwoQuarter[key];
-    }
-  });
+Object.defineProperty(exports, 'BatteryTwoQuarter', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BatteryTwoQuarter).default;
+  }
 });
 
 var _Beer = require('./icons/Beer');
 
-Object.keys(_Beer).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Beer[key];
-    }
-  });
+Object.defineProperty(exports, 'Beer', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Beer).default;
+  }
 });
 
 var _Behance = require('./icons/Behance');
 
-Object.keys(_Behance).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Behance[key];
-    }
-  });
+Object.defineProperty(exports, 'Behance', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Behance).default;
+  }
 });
 
 var _BehanceCircle = require('./icons/BehanceCircle');
 
-Object.keys(_BehanceCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BehanceCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'BehanceCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BehanceCircle).default;
+  }
 });
 
 var _BehanceSquare = require('./icons/BehanceSquare');
 
-Object.keys(_BehanceSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BehanceSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'BehanceSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BehanceSquare).default;
+  }
 });
 
 var _Bell = require('./icons/Bell');
 
-Object.keys(_Bell).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Bell[key];
-    }
-  });
+Object.defineProperty(exports, 'Bell', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Bell).default;
+  }
 });
 
 var _BellF = require('./icons/BellF');
 
-Object.keys(_BellF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BellF[key];
-    }
-  });
+Object.defineProperty(exports, 'BellF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BellF).default;
+  }
 });
 
 var _BellOff = require('./icons/BellOff');
 
-Object.keys(_BellOff).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BellOff[key];
-    }
-  });
+Object.defineProperty(exports, 'BellOff', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BellOff).default;
+  }
 });
 
 var _BellOffF = require('./icons/BellOffF');
 
-Object.keys(_BellOffF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BellOffF[key];
-    }
-  });
+Object.defineProperty(exports, 'BellOffF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BellOffF).default;
+  }
 });
 
 var _BirthdayCake = require('./icons/BirthdayCake');
 
-Object.keys(_BirthdayCake).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BirthdayCake[key];
-    }
-  });
+Object.defineProperty(exports, 'BirthdayCake', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BirthdayCake).default;
+  }
 });
 
 var _Bold = require('./icons/Bold');
 
-Object.keys(_Bold).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Bold[key];
-    }
-  });
+Object.defineProperty(exports, 'Bold', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Bold).default;
+  }
 });
 
 var _Book = require('./icons/Book');
 
-Object.keys(_Book).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Book[key];
-    }
-  });
+Object.defineProperty(exports, 'Book', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Book).default;
+  }
 });
 
 var _Bookmark = require('./icons/Bookmark');
 
-Object.keys(_Bookmark).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Bookmark[key];
-    }
-  });
+Object.defineProperty(exports, 'Bookmark', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Bookmark).default;
+  }
 });
 
 var _BookmarkF = require('./icons/BookmarkF');
 
-Object.keys(_BookmarkF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BookmarkF[key];
-    }
-  });
+Object.defineProperty(exports, 'BookmarkF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BookmarkF).default;
+  }
 });
 
 var _Box = require('./icons/Box');
 
-Object.keys(_Box).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Box[key];
-    }
-  });
+Object.defineProperty(exports, 'Box', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Box).default;
+  }
 });
 
 var _BoxF = require('./icons/BoxF');
 
-Object.keys(_BoxF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BoxF[key];
-    }
-  });
+Object.defineProperty(exports, 'BoxF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BoxF).default;
+  }
 });
 
 var _Brightness = require('./icons/Brightness');
 
-Object.keys(_Brightness).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Brightness[key];
-    }
-  });
+Object.defineProperty(exports, 'Brightness', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Brightness).default;
+  }
 });
 
 var _BrightnessDown = require('./icons/BrightnessDown');
 
-Object.keys(_BrightnessDown).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BrightnessDown[key];
-    }
-  });
+Object.defineProperty(exports, 'BrightnessDown', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BrightnessDown).default;
+  }
 });
 
 var _BrightnessUp = require('./icons/BrightnessUp');
 
-Object.keys(_BrightnessUp).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _BrightnessUp[key];
-    }
-  });
+Object.defineProperty(exports, 'BrightnessUp', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_BrightnessUp).default;
+  }
 });
 
 var _Brush = require('./icons/Brush');
 
-Object.keys(_Brush).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Brush[key];
-    }
-  });
+Object.defineProperty(exports, 'Brush', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Brush).default;
+  }
 });
 
 var _Bus = require('./icons/Bus');
 
-Object.keys(_Bus).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Bus[key];
-    }
-  });
+Object.defineProperty(exports, 'Bus', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Bus).default;
+  }
 });
 
 var _Cactus = require('./icons/Cactus');
 
-Object.keys(_Cactus).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Cactus[key];
-    }
-  });
+Object.defineProperty(exports, 'Cactus', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Cactus).default;
+  }
 });
 
 var _Calculator = require('./icons/Calculator');
 
-Object.keys(_Calculator).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Calculator[key];
-    }
-  });
+Object.defineProperty(exports, 'Calculator', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Calculator).default;
+  }
 });
 
 var _Calendar = require('./icons/Calendar');
 
-Object.keys(_Calendar).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Calendar[key];
-    }
-  });
+Object.defineProperty(exports, 'Calendar', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Calendar).default;
+  }
 });
 
 var _CalendarAlt = require('./icons/CalendarAlt');
 
-Object.keys(_CalendarAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CalendarAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'CalendarAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CalendarAlt).default;
+  }
 });
 
 var _Camera = require('./icons/Camera');
 
-Object.keys(_Camera).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Camera[key];
-    }
-  });
+Object.defineProperty(exports, 'Camera', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Camera).default;
+  }
 });
 
 var _CameraAlt = require('./icons/CameraAlt');
 
-Object.keys(_CameraAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CameraAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'CameraAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CameraAlt).default;
+  }
 });
 
 var _Candle = require('./icons/Candle');
 
-Object.keys(_Candle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Candle[key];
-    }
-  });
+Object.defineProperty(exports, 'Candle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Candle).default;
+  }
 });
 
 var _Car = require('./icons/Car');
 
-Object.keys(_Car).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Car[key];
-    }
-  });
+Object.defineProperty(exports, 'Car', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Car).default;
+  }
 });
 
 var _CaretDown = require('./icons/CaretDown');
 
-Object.keys(_CaretDown).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretDown[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretDown', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretDown).default;
+  }
 });
 
 var _CaretDownCircle = require('./icons/CaretDownCircle');
 
-Object.keys(_CaretDownCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretDownCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretDownCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretDownCircle).default;
+  }
 });
 
 var _CaretLeft = require('./icons/CaretLeft');
 
-Object.keys(_CaretLeft).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretLeft[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretLeft', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretLeft).default;
+  }
 });
 
 var _CaretLeftCircle = require('./icons/CaretLeftCircle');
 
-Object.keys(_CaretLeftCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretLeftCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretLeftCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretLeftCircle).default;
+  }
 });
 
 var _CaretRight = require('./icons/CaretRight');
 
-Object.keys(_CaretRight).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretRight[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretRight', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretRight).default;
+  }
 });
 
 var _CaretRightCircle = require('./icons/CaretRightCircle');
 
-Object.keys(_CaretRightCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretRightCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretRightCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretRightCircle).default;
+  }
 });
 
 var _CaretTop = require('./icons/CaretTop');
 
-Object.keys(_CaretTop).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretTop[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretTop', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretTop).default;
+  }
 });
 
 var _CaretTopCircle = require('./icons/CaretTopCircle');
 
-Object.keys(_CaretTopCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CaretTopCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'CaretTopCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CaretTopCircle).default;
+  }
 });
 
 var _Castle = require('./icons/Castle');
 
-Object.keys(_Castle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Castle[key];
-    }
-  });
+Object.defineProperty(exports, 'Castle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Castle).default;
+  }
 });
 
 var _Check = require('./icons/Check');
 
-Object.keys(_Check).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Check[key];
-    }
-  });
+Object.defineProperty(exports, 'Check', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Check).default;
+  }
 });
 
 var _Chess = require('./icons/Chess');
 
-Object.keys(_Chess).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Chess[key];
-    }
-  });
+Object.defineProperty(exports, 'Chess', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Chess).default;
+  }
 });
 
 var _Close = require('./icons/Close');
 
-Object.keys(_Close).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Close[key];
-    }
-  });
+Object.defineProperty(exports, 'Close', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Close).default;
+  }
 });
 
 var _Cloud = require('./icons/Cloud');
 
-Object.keys(_Cloud).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Cloud[key];
-    }
-  });
+Object.defineProperty(exports, 'Cloud', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Cloud).default;
+  }
 });
 
 var _CloudF = require('./icons/CloudF');
 
-Object.keys(_CloudF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CloudF[key];
-    }
-  });
+Object.defineProperty(exports, 'CloudF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CloudF).default;
+  }
 });
 
 var _Code = require('./icons/Code');
 
-Object.keys(_Code).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Code[key];
-    }
-  });
+Object.defineProperty(exports, 'Code', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Code).default;
+  }
 });
 
 var _CoffeeAlt = require('./icons/CoffeeAlt');
 
-Object.keys(_CoffeeAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CoffeeAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'CoffeeAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CoffeeAlt).default;
+  }
 });
 
 var _CoffeeCup = require('./icons/CoffeeCup');
 
-Object.keys(_CoffeeCup).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CoffeeCup[key];
-    }
-  });
+Object.defineProperty(exports, 'CoffeeCup', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CoffeeCup).default;
+  }
 });
 
 var _CoffeeCupF = require('./icons/CoffeeCupF');
 
-Object.keys(_CoffeeCupF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CoffeeCupF[key];
-    }
-  });
+Object.defineProperty(exports, 'CoffeeCupF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CoffeeCupF).default;
+  }
 });
 
 var _Cog = require('./icons/Cog');
 
-Object.keys(_Cog).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Cog[key];
-    }
-  });
+Object.defineProperty(exports, 'Cog', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Cog).default;
+  }
 });
 
 var _CogF = require('./icons/CogF');
 
-Object.keys(_CogF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CogF[key];
-    }
-  });
+Object.defineProperty(exports, 'CogF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CogF).default;
+  }
 });
 
 var _Cogs = require('./icons/Cogs');
 
-Object.keys(_Cogs).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Cogs[key];
-    }
-  });
+Object.defineProperty(exports, 'Cogs', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Cogs).default;
+  }
 });
 
 var _CogsF = require('./icons/CogsF');
 
-Object.keys(_CogsF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CogsF[key];
-    }
-  });
+Object.defineProperty(exports, 'CogsF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CogsF).default;
+  }
 });
 
 var _Compass = require('./icons/Compass');
 
-Object.keys(_Compass).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Compass[key];
-    }
-  });
+Object.defineProperty(exports, 'Compass', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Compass).default;
+  }
 });
 
 var _Computer = require('./icons/Computer');
 
-Object.keys(_Computer).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Computer[key];
-    }
-  });
+Object.defineProperty(exports, 'Computer', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Computer).default;
+  }
 });
 
 var _ComputerAlt = require('./icons/ComputerAlt');
 
-Object.keys(_ComputerAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ComputerAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'ComputerAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ComputerAlt).default;
+  }
 });
 
 var _CreditCard = require('./icons/CreditCard');
 
-Object.keys(_CreditCard).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CreditCard[key];
-    }
-  });
+Object.defineProperty(exports, 'CreditCard', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CreditCard).default;
+  }
 });
 
 var _CreditCardF = require('./icons/CreditCardF');
 
-Object.keys(_CreditCardF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _CreditCardF[key];
-    }
-  });
+Object.defineProperty(exports, 'CreditCardF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_CreditCardF).default;
+  }
 });
 
 var _Css = require('./icons/Css3');
 
-Object.keys(_Css).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Css[key];
-    }
-  });
+Object.defineProperty(exports, 'Css3', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Css).default;
+  }
 });
 
 var _Cutlery = require('./icons/Cutlery');
 
-Object.keys(_Cutlery).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Cutlery[key];
-    }
-  });
+Object.defineProperty(exports, 'Cutlery', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Cutlery).default;
+  }
 });
 
 var _Cutter = require('./icons/Cutter');
 
-Object.keys(_Cutter).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Cutter[key];
-    }
-  });
+Object.defineProperty(exports, 'Cutter', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Cutter).default;
+  }
 });
 
 var _Dashboard = require('./icons/Dashboard');
 
-Object.keys(_Dashboard).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Dashboard[key];
-    }
-  });
+Object.defineProperty(exports, 'Dashboard', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Dashboard).default;
+  }
 });
 
 var _DashboardF = require('./icons/DashboardF');
 
-Object.keys(_DashboardF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _DashboardF[key];
-    }
-  });
+Object.defineProperty(exports, 'DashboardF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_DashboardF).default;
+  }
 });
 
 var _Database = require('./icons/Database');
 
-Object.keys(_Database).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Database[key];
-    }
-  });
+Object.defineProperty(exports, 'Database', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Database).default;
+  }
 });
 
 var _Deejay = require('./icons/Deejay');
 
-Object.keys(_Deejay).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Deejay[key];
-    }
-  });
+Object.defineProperty(exports, 'Deejay', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Deejay).default;
+  }
 });
 
 var _Digg = require('./icons/Digg');
 
-Object.keys(_Digg).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Digg[key];
-    }
-  });
+Object.defineProperty(exports, 'Digg', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Digg).default;
+  }
 });
 
 var _Direction = require('./icons/Direction');
 
-Object.keys(_Direction).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Direction[key];
-    }
-  });
+Object.defineProperty(exports, 'Direction', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Direction).default;
+  }
 });
 
 var _DirectionF = require('./icons/DirectionF');
 
-Object.keys(_DirectionF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _DirectionF[key];
-    }
-  });
+Object.defineProperty(exports, 'DirectionF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_DirectionF).default;
+  }
 });
 
 var _Directions = require('./icons/Directions');
 
-Object.keys(_Directions).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Directions[key];
-    }
-  });
+Object.defineProperty(exports, 'Directions', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Directions).default;
+  }
 });
 
 var _DirectionsF = require('./icons/DirectionsF');
 
-Object.keys(_DirectionsF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _DirectionsF[key];
-    }
-  });
+Object.defineProperty(exports, 'DirectionsF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_DirectionsF).default;
+  }
 });
 
 var _Disc = require('./icons/Disc');
 
-Object.keys(_Disc).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Disc[key];
-    }
-  });
+Object.defineProperty(exports, 'Disc', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Disc).default;
+  }
 });
 
 var _Dna = require('./icons/Dna');
 
-Object.keys(_Dna).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Dna[key];
-    }
-  });
+Object.defineProperty(exports, 'Dna', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Dna).default;
+  }
 });
 
 var _Document = require('./icons/Document');
 
-Object.keys(_Document).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Document[key];
-    }
-  });
+Object.defineProperty(exports, 'Document', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Document).default;
+  }
 });
 
 var _DocumentF = require('./icons/DocumentF');
 
-Object.keys(_DocumentF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _DocumentF[key];
-    }
-  });
+Object.defineProperty(exports, 'DocumentF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_DocumentF).default;
+  }
 });
 
 var _Download = require('./icons/Download');
 
-Object.keys(_Download).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Download[key];
-    }
-  });
+Object.defineProperty(exports, 'Download', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Download).default;
+  }
 });
 
 var _Dribbble = require('./icons/Dribbble');
 
-Object.keys(_Dribbble).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Dribbble[key];
-    }
-  });
+Object.defineProperty(exports, 'Dribbble', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Dribbble).default;
+  }
 });
 
 var _DribbbleCircle = require('./icons/DribbbleCircle');
 
-Object.keys(_DribbbleCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _DribbbleCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'DribbbleCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_DribbbleCircle).default;
+  }
 });
 
 var _DribbbleSquare = require('./icons/DribbbleSquare');
 
-Object.keys(_DribbbleSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _DribbbleSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'DribbbleSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_DribbbleSquare).default;
+  }
 });
 
 var _Dropbox = require('./icons/Dropbox');
 
-Object.keys(_Dropbox).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Dropbox[key];
-    }
-  });
+Object.defineProperty(exports, 'Dropbox', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Dropbox).default;
+  }
 });
 
 var _Egg = require('./icons/Egg');
 
-Object.keys(_Egg).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Egg[key];
-    }
-  });
+Object.defineProperty(exports, 'Egg', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Egg).default;
+  }
 });
 
 var _EggF = require('./icons/EggF');
 
-Object.keys(_EggF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _EggF[key];
-    }
-  });
+Object.defineProperty(exports, 'EggF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_EggF).default;
+  }
 });
 
 var _Eggs = require('./icons/Eggs');
 
-Object.keys(_Eggs).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Eggs[key];
-    }
-  });
+Object.defineProperty(exports, 'Eggs', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Eggs).default;
+  }
 });
 
 var _Eject = require('./icons/Eject');
 
-Object.keys(_Eject).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Eject[key];
-    }
-  });
+Object.defineProperty(exports, 'Eject', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Eject).default;
+  }
 });
 
 var _EjectF = require('./icons/EjectF');
 
-Object.keys(_EjectF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _EjectF[key];
-    }
-  });
+Object.defineProperty(exports, 'EjectF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_EjectF).default;
+  }
 });
 
 var _Envelope = require('./icons/Envelope');
 
-Object.keys(_Envelope).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Envelope[key];
-    }
-  });
+Object.defineProperty(exports, 'Envelope', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Envelope).default;
+  }
 });
 
 var _EnvelopeF = require('./icons/EnvelopeF');
 
-Object.keys(_EnvelopeF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _EnvelopeF[key];
-    }
-  });
+Object.defineProperty(exports, 'EnvelopeF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_EnvelopeF).default;
+  }
 });
 
 var _EnvelopeOpen = require('./icons/EnvelopeOpen');
 
-Object.keys(_EnvelopeOpen).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _EnvelopeOpen[key];
-    }
-  });
+Object.defineProperty(exports, 'EnvelopeOpen', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_EnvelopeOpen).default;
+  }
 });
 
 var _EnvelopeOpenF = require('./icons/EnvelopeOpenF');
 
-Object.keys(_EnvelopeOpenF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _EnvelopeOpenF[key];
-    }
-  });
+Object.defineProperty(exports, 'EnvelopeOpenF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_EnvelopeOpenF).default;
+  }
 });
 
 var _Eye = require('./icons/Eye');
 
-Object.keys(_Eye).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Eye[key];
-    }
-  });
+Object.defineProperty(exports, 'Eye', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Eye).default;
+  }
 });
 
 var _EyeCross = require('./icons/EyeCross');
 
-Object.keys(_EyeCross).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _EyeCross[key];
-    }
-  });
+Object.defineProperty(exports, 'EyeCross', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_EyeCross).default;
+  }
 });
 
 var _Facebook = require('./icons/Facebook');
 
-Object.keys(_Facebook).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Facebook[key];
-    }
-  });
+Object.defineProperty(exports, 'Facebook', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Facebook).default;
+  }
 });
 
 var _FacebookCircle = require('./icons/FacebookCircle');
 
-Object.keys(_FacebookCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FacebookCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'FacebookCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FacebookCircle).default;
+  }
 });
 
 var _FacebookSquare = require('./icons/FacebookSquare');
 
-Object.keys(_FacebookSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FacebookSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'FacebookSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FacebookSquare).default;
+  }
 });
 
 var _FeatherPen = require('./icons/FeatherPen');
 
-Object.keys(_FeatherPen).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FeatherPen[key];
-    }
-  });
+Object.defineProperty(exports, 'FeatherPen', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FeatherPen).default;
+  }
 });
 
 var _Female = require('./icons/Female');
 
-Object.keys(_Female).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Female[key];
-    }
-  });
+Object.defineProperty(exports, 'Female', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Female).default;
+  }
 });
 
 var _File = require('./icons/File');
 
-Object.keys(_File).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _File[key];
-    }
-  });
+Object.defineProperty(exports, 'File', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_File).default;
+  }
 });
 
 var _Files = require('./icons/Files');
 
-Object.keys(_Files).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Files[key];
-    }
-  });
+Object.defineProperty(exports, 'Files', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Files).default;
+  }
 });
 
 var _Fingerprint = require('./icons/Fingerprint');
 
-Object.keys(_Fingerprint).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Fingerprint[key];
-    }
-  });
+Object.defineProperty(exports, 'Fingerprint', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Fingerprint).default;
+  }
 });
 
 var _Fish = require('./icons/Fish');
 
-Object.keys(_Fish).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Fish[key];
-    }
-  });
+Object.defineProperty(exports, 'Fish', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Fish).default;
+  }
 });
 
 var _Flag = require('./icons/Flag');
 
-Object.keys(_Flag).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Flag[key];
-    }
-  });
+Object.defineProperty(exports, 'Flag', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Flag).default;
+  }
 });
 
 var _FlagF = require('./icons/FlagF');
 
-Object.keys(_FlagF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FlagF[key];
-    }
-  });
+Object.defineProperty(exports, 'FlagF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FlagF).default;
+  }
 });
 
 var _Flame = require('./icons/Flame');
 
-Object.keys(_Flame).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Flame[key];
-    }
-  });
+Object.defineProperty(exports, 'Flame', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Flame).default;
+  }
 });
 
 var _FlashlightOff = require('./icons/FlashlightOff');
 
-Object.keys(_FlashlightOff).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FlashlightOff[key];
-    }
-  });
+Object.defineProperty(exports, 'FlashlightOff', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FlashlightOff).default;
+  }
 });
 
 var _FlashlightOn = require('./icons/FlashlightOn');
 
-Object.keys(_FlashlightOn).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FlashlightOn[key];
-    }
-  });
+Object.defineProperty(exports, 'FlashlightOn', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FlashlightOn).default;
+  }
 });
 
 var _Flask = require('./icons/Flask');
 
-Object.keys(_Flask).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Flask[key];
-    }
-  });
+Object.defineProperty(exports, 'Flask', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Flask).default;
+  }
 });
 
 var _FlaskAlt = require('./icons/FlaskAlt');
 
-Object.keys(_FlaskAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FlaskAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'FlaskAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FlaskAlt).default;
+  }
 });
 
 var _Flickr = require('./icons/Flickr');
 
-Object.keys(_Flickr).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Flickr[key];
-    }
-  });
+Object.defineProperty(exports, 'Flickr', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Flickr).default;
+  }
 });
 
 var _FlickrCircle = require('./icons/FlickrCircle');
 
-Object.keys(_FlickrCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FlickrCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'FlickrCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FlickrCircle).default;
+  }
 });
 
 var _FlickrSquare = require('./icons/FlickrSquare');
 
-Object.keys(_FlickrSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FlickrSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'FlickrSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FlickrSquare).default;
+  }
 });
 
 var _Flower = require('./icons/Flower');
 
-Object.keys(_Flower).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Flower[key];
-    }
-  });
+Object.defineProperty(exports, 'Flower', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Flower).default;
+  }
 });
 
 var _Folder = require('./icons/Folder');
 
-Object.keys(_Folder).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Folder[key];
-    }
-  });
+Object.defineProperty(exports, 'Folder', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Folder).default;
+  }
 });
 
 var _FolderF = require('./icons/FolderF');
 
-Object.keys(_FolderF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _FolderF[key];
-    }
-  });
+Object.defineProperty(exports, 'FolderF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_FolderF).default;
+  }
 });
 
 var _Font = require('./icons/Font');
 
-Object.keys(_Font).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Font[key];
-    }
-  });
+Object.defineProperty(exports, 'Font', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Font).default;
+  }
 });
 
 var _Football = require('./icons/Football');
 
-Object.keys(_Football).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Football[key];
-    }
-  });
+Object.defineProperty(exports, 'Football', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Football).default;
+  }
 });
 
 var _Forward = require('./icons/Forward');
 
-Object.keys(_Forward).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Forward[key];
-    }
-  });
+Object.defineProperty(exports, 'Forward', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Forward).default;
+  }
 });
 
 var _ForwardF = require('./icons/ForwardF');
 
-Object.keys(_ForwardF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ForwardF[key];
-    }
-  });
+Object.defineProperty(exports, 'ForwardF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ForwardF).default;
+  }
 });
 
 var _Gamepad = require('./icons/Gamepad');
 
-Object.keys(_Gamepad).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Gamepad[key];
-    }
-  });
+Object.defineProperty(exports, 'Gamepad', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Gamepad).default;
+  }
 });
 
 var _GamepadRetro = require('./icons/GamepadRetro');
 
-Object.keys(_GamepadRetro).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GamepadRetro[key];
-    }
-  });
+Object.defineProperty(exports, 'GamepadRetro', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GamepadRetro).default;
+  }
 });
 
 var _Ghost = require('./icons/Ghost');
 
-Object.keys(_Ghost).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Ghost[key];
-    }
-  });
+Object.defineProperty(exports, 'Ghost', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Ghost).default;
+  }
 });
 
 var _GhostF = require('./icons/GhostF');
 
-Object.keys(_GhostF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GhostF[key];
-    }
-  });
+Object.defineProperty(exports, 'GhostF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GhostF).default;
+  }
 });
 
 var _Gift = require('./icons/Gift');
 
-Object.keys(_Gift).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Gift[key];
-    }
-  });
+Object.defineProperty(exports, 'Gift', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Gift).default;
+  }
 });
 
 var _Github = require('./icons/Github');
 
-Object.keys(_Github).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Github[key];
-    }
-  });
+Object.defineProperty(exports, 'Github', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Github).default;
+  }
 });
 
 var _GithubAlt = require('./icons/GithubAlt');
 
-Object.keys(_GithubAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GithubAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'GithubAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GithubAlt).default;
+  }
 });
 
 var _GlassEmpty = require('./icons/GlassEmpty');
 
-Object.keys(_GlassEmpty).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GlassEmpty[key];
-    }
-  });
+Object.defineProperty(exports, 'GlassEmpty', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GlassEmpty).default;
+  }
 });
 
 var _GlassFilled = require('./icons/GlassFilled');
 
-Object.keys(_GlassFilled).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GlassFilled[key];
-    }
-  });
+Object.defineProperty(exports, 'GlassFilled', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GlassFilled).default;
+  }
 });
 
 var _Glue = require('./icons/Glue');
 
-Object.keys(_Glue).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Glue[key];
-    }
-  });
+Object.defineProperty(exports, 'Glue', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Glue).default;
+  }
 });
 
 var _Google = require('./icons/Google');
 
-Object.keys(_Google).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Google[key];
-    }
-  });
+Object.defineProperty(exports, 'Google', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Google).default;
+  }
 });
 
 var _GooglePlus = require('./icons/GooglePlus');
 
-Object.keys(_GooglePlus).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GooglePlus[key];
-    }
-  });
+Object.defineProperty(exports, 'GooglePlus', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GooglePlus).default;
+  }
 });
 
 var _Gps = require('./icons/Gps');
 
-Object.keys(_Gps).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Gps[key];
-    }
-  });
+Object.defineProperty(exports, 'Gps', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Gps).default;
+  }
 });
 
 var _GpsF = require('./icons/GpsF');
 
-Object.keys(_GpsF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GpsF[key];
-    }
-  });
+Object.defineProperty(exports, 'GpsF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GpsF).default;
+  }
 });
 
 var _GraphicChart = require('./icons/GraphicChart');
 
-Object.keys(_GraphicChart).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _GraphicChart[key];
-    }
-  });
+Object.defineProperty(exports, 'GraphicChart', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_GraphicChart).default;
+  }
 });
 
 var _HairDryer = require('./icons/HairDryer');
 
-Object.keys(_HairDryer).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _HairDryer[key];
-    }
-  });
+Object.defineProperty(exports, 'HairDryer', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_HairDryer).default;
+  }
 });
 
 var _Hammer = require('./icons/Hammer');
 
-Object.keys(_Hammer).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Hammer[key];
-    }
-  });
+Object.defineProperty(exports, 'Hammer', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Hammer).default;
+  }
 });
 
 var _Hashtag = require('./icons/Hashtag');
 
-Object.keys(_Hashtag).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Hashtag[key];
-    }
-  });
+Object.defineProperty(exports, 'Hashtag', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Hashtag).default;
+  }
 });
 
 var _Heading = require('./icons/Heading');
 
-Object.keys(_Heading).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Heading[key];
-    }
-  });
+Object.defineProperty(exports, 'Heading', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Heading).default;
+  }
 });
 
 var _Headphone = require('./icons/Headphone');
 
-Object.keys(_Headphone).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Headphone[key];
-    }
-  });
+Object.defineProperty(exports, 'Headphone', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Headphone).default;
+  }
 });
 
 var _Heart = require('./icons/Heart');
 
-Object.keys(_Heart).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Heart[key];
-    }
-  });
+Object.defineProperty(exports, 'Heart', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Heart).default;
+  }
 });
 
 var _HeartF = require('./icons/HeartF');
 
-Object.keys(_HeartF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _HeartF[key];
-    }
-  });
+Object.defineProperty(exports, 'HeartF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_HeartF).default;
+  }
 });
 
 var _Helmet = require('./icons/Helmet');
 
-Object.keys(_Helmet).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Helmet[key];
-    }
-  });
+Object.defineProperty(exports, 'Helmet', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Helmet).default;
+  }
 });
 
 var _Highlighter = require('./icons/Highlighter');
 
-Object.keys(_Highlighter).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Highlighter[key];
-    }
-  });
+Object.defineProperty(exports, 'Highlighter', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Highlighter).default;
+  }
 });
 
 var _Home = require('./icons/Home');
 
-Object.keys(_Home).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Home[key];
-    }
-  });
+Object.defineProperty(exports, 'Home', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Home).default;
+  }
 });
 
 var _HomeF = require('./icons/HomeF');
 
-Object.keys(_HomeF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _HomeF[key];
-    }
-  });
+Object.defineProperty(exports, 'HomeF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_HomeF).default;
+  }
 });
 
 var _Hourglass = require('./icons/Hourglass');
 
-Object.keys(_Hourglass).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Hourglass[key];
-    }
-  });
+Object.defineProperty(exports, 'Hourglass', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Hourglass).default;
+  }
 });
 
 var _Html = require('./icons/Html5');
 
-Object.keys(_Html).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Html[key];
-    }
-  });
+Object.defineProperty(exports, 'Html5', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Html).default;
+  }
 });
 
 var _IceCream = require('./icons/IceCream');
 
-Object.keys(_IceCream).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _IceCream[key];
-    }
-  });
+Object.defineProperty(exports, 'IceCream', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_IceCream).default;
+  }
 });
 
 var _IceCreamAlt = require('./icons/IceCreamAlt');
 
-Object.keys(_IceCreamAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _IceCreamAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'IceCreamAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_IceCreamAlt).default;
+  }
 });
 
 var _IceCreamF = require('./icons/IceCreamF');
 
-Object.keys(_IceCreamF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _IceCreamF[key];
-    }
-  });
+Object.defineProperty(exports, 'IceCreamF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_IceCreamF).default;
+  }
 });
 
 var _IdCard = require('./icons/IdCard');
 
-Object.keys(_IdCard).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _IdCard[key];
-    }
-  });
+Object.defineProperty(exports, 'IdCard', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_IdCard).default;
+  }
 });
 
 var _Indent = require('./icons/Indent');
 
-Object.keys(_Indent).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Indent[key];
-    }
-  });
+Object.defineProperty(exports, 'Indent', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Indent).default;
+  }
 });
 
 var _Info = require('./icons/Info');
 
-Object.keys(_Info).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Info[key];
-    }
-  });
+Object.defineProperty(exports, 'Info', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Info).default;
+  }
 });
 
 var _Instagram = require('./icons/Instagram');
 
-Object.keys(_Instagram).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Instagram[key];
-    }
-  });
+Object.defineProperty(exports, 'Instagram', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Instagram).default;
+  }
 });
 
 var _InstagramCircle = require('./icons/InstagramCircle');
 
-Object.keys(_InstagramCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _InstagramCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'InstagramCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_InstagramCircle).default;
+  }
 });
 
 var _InstagramSquare = require('./icons/InstagramSquare');
 
-Object.keys(_InstagramSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _InstagramSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'InstagramSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_InstagramSquare).default;
+  }
 });
 
 var _Italic = require('./icons/Italic');
 
-Object.keys(_Italic).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Italic[key];
-    }
-  });
+Object.defineProperty(exports, 'Italic', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Italic).default;
+  }
 });
 
 var _Joystick = require('./icons/Joystick');
 
-Object.keys(_Joystick).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Joystick[key];
-    }
-  });
+Object.defineProperty(exports, 'Joystick', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Joystick).default;
+  }
 });
 
 var _Jsfiddle = require('./icons/Jsfiddle');
 
-Object.keys(_Jsfiddle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Jsfiddle[key];
-    }
-  });
+Object.defineProperty(exports, 'Jsfiddle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Jsfiddle).default;
+  }
 });
 
 var _Key = require('./icons/Key');
 
-Object.keys(_Key).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Key[key];
-    }
-  });
+Object.defineProperty(exports, 'Key', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Key).default;
+  }
 });
 
 var _Keyboard = require('./icons/Keyboard');
 
-Object.keys(_Keyboard).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Keyboard[key];
-    }
-  });
+Object.defineProperty(exports, 'Keyboard', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Keyboard).default;
+  }
 });
 
 var _Language = require('./icons/Language');
 
-Object.keys(_Language).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Language[key];
-    }
-  });
+Object.defineProperty(exports, 'Language', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Language).default;
+  }
 });
 
 var _Levels = require('./icons/Levels');
 
-Object.keys(_Levels).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Levels[key];
-    }
-  });
+Object.defineProperty(exports, 'Levels', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Levels).default;
+  }
 });
 
 var _LifeBouy = require('./icons/LifeBouy');
 
-Object.keys(_LifeBouy).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _LifeBouy[key];
-    }
-  });
+Object.defineProperty(exports, 'LifeBouy', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_LifeBouy).default;
+  }
 });
 
 var _LightBulb = require('./icons/LightBulb');
 
-Object.keys(_LightBulb).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _LightBulb[key];
-    }
-  });
+Object.defineProperty(exports, 'LightBulb', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_LightBulb).default;
+  }
 });
 
 var _LineChart = require('./icons/LineChart');
 
-Object.keys(_LineChart).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _LineChart[key];
-    }
-  });
+Object.defineProperty(exports, 'LineChart', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_LineChart).default;
+  }
 });
 
 var _Link = require('./icons/Link');
 
-Object.keys(_Link).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Link[key];
-    }
-  });
+Object.defineProperty(exports, 'Link', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Link).default;
+  }
 });
 
 var _Linkedin = require('./icons/Linkedin');
 
-Object.keys(_Linkedin).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Linkedin[key];
-    }
-  });
+Object.defineProperty(exports, 'Linkedin', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Linkedin).default;
+  }
 });
 
 var _LinkedinCircle = require('./icons/LinkedinCircle');
 
-Object.keys(_LinkedinCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _LinkedinCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'LinkedinCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_LinkedinCircle).default;
+  }
 });
 
 var _LinkedinSquare = require('./icons/LinkedinSquare');
 
-Object.keys(_LinkedinSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _LinkedinSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'LinkedinSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_LinkedinSquare).default;
+  }
 });
 
 var _Luggage = require('./icons/Luggage');
 
-Object.keys(_Luggage).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Luggage[key];
-    }
-  });
+Object.defineProperty(exports, 'Luggage', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Luggage).default;
+  }
 });
 
 var _Magic = require('./icons/Magic');
 
-Object.keys(_Magic).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Magic[key];
-    }
-  });
+Object.defineProperty(exports, 'Magic', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Magic).default;
+  }
 });
 
 var _Magnet = require('./icons/Magnet');
 
-Object.keys(_Magnet).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Magnet[key];
-    }
-  });
+Object.defineProperty(exports, 'Magnet', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Magnet).default;
+  }
 });
 
 var _Male = require('./icons/Male');
 
-Object.keys(_Male).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Male[key];
-    }
-  });
+Object.defineProperty(exports, 'Male', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Male).default;
+  }
 });
 
 var _Map = require('./icons/Map');
 
-Object.keys(_Map).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Map[key];
-    }
-  });
+Object.defineProperty(exports, 'Map', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Map).default;
+  }
 });
 
 var _MapMarker = require('./icons/MapMarker');
 
-Object.keys(_MapMarker).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MapMarker[key];
-    }
-  });
+Object.defineProperty(exports, 'MapMarker', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MapMarker).default;
+  }
 });
 
 var _MapMarkerF = require('./icons/MapMarkerF');
 
-Object.keys(_MapMarkerF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MapMarkerF[key];
-    }
-  });
+Object.defineProperty(exports, 'MapMarkerF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MapMarkerF).default;
+  }
 });
 
 var _Medal = require('./icons/Medal');
 
-Object.keys(_Medal).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Medal[key];
-    }
-  });
+Object.defineProperty(exports, 'Medal', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Medal).default;
+  }
 });
 
 var _Message = require('./icons/Message');
 
-Object.keys(_Message).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Message[key];
-    }
-  });
+Object.defineProperty(exports, 'Message', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Message).default;
+  }
 });
 
 var _MessageAlt = require('./icons/MessageAlt');
 
-Object.keys(_MessageAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessageAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'MessageAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessageAlt).default;
+  }
 });
 
 var _MessageAltF = require('./icons/MessageAltF');
 
-Object.keys(_MessageAltF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessageAltF[key];
-    }
-  });
+Object.defineProperty(exports, 'MessageAltF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessageAltF).default;
+  }
 });
 
 var _MessageF = require('./icons/MessageF');
 
-Object.keys(_MessageF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessageF[key];
-    }
-  });
+Object.defineProperty(exports, 'MessageF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessageF).default;
+  }
 });
 
 var _MessageWriting = require('./icons/MessageWriting');
 
-Object.keys(_MessageWriting).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessageWriting[key];
-    }
-  });
+Object.defineProperty(exports, 'MessageWriting', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessageWriting).default;
+  }
 });
 
 var _MessageWritingAlt = require('./icons/MessageWritingAlt');
 
-Object.keys(_MessageWritingAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessageWritingAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'MessageWritingAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessageWritingAlt).default;
+  }
 });
 
 var _MessageWritingAltF = require('./icons/MessageWritingAltF');
 
-Object.keys(_MessageWritingAltF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessageWritingAltF[key];
-    }
-  });
+Object.defineProperty(exports, 'MessageWritingAltF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessageWritingAltF).default;
+  }
 });
 
 var _MessageWritingF = require('./icons/MessageWritingF');
 
-Object.keys(_MessageWritingF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessageWritingF[key];
-    }
-  });
+Object.defineProperty(exports, 'MessageWritingF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessageWritingF).default;
+  }
 });
 
 var _Messages = require('./icons/Messages');
 
-Object.keys(_Messages).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Messages[key];
-    }
-  });
+Object.defineProperty(exports, 'Messages', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Messages).default;
+  }
 });
 
 var _MessagesAlt = require('./icons/MessagesAlt');
 
-Object.keys(_MessagesAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessagesAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'MessagesAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessagesAlt).default;
+  }
 });
 
 var _MessagesAltF = require('./icons/MessagesAltF');
 
-Object.keys(_MessagesAltF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessagesAltF[key];
-    }
-  });
+Object.defineProperty(exports, 'MessagesAltF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessagesAltF).default;
+  }
 });
 
 var _MessagesF = require('./icons/MessagesF');
 
-Object.keys(_MessagesF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MessagesF[key];
-    }
-  });
+Object.defineProperty(exports, 'MessagesF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MessagesF).default;
+  }
 });
 
 var _Mic = require('./icons/Mic');
 
-Object.keys(_Mic).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Mic[key];
-    }
-  });
+Object.defineProperty(exports, 'Mic', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Mic).default;
+  }
 });
 
 var _Minus = require('./icons/Minus');
 
-Object.keys(_Minus).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Minus[key];
-    }
-  });
+Object.defineProperty(exports, 'Minus', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Minus).default;
+  }
 });
 
 var _Moon = require('./icons/Moon');
 
-Object.keys(_Moon).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Moon[key];
-    }
-  });
+Object.defineProperty(exports, 'Moon', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Moon).default;
+  }
 });
 
 var _MoonF = require('./icons/MoonF');
 
-Object.keys(_MoonF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MoonF[key];
-    }
-  });
+Object.defineProperty(exports, 'MoonF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MoonF).default;
+  }
 });
 
 var _More = require('./icons/More');
 
-Object.keys(_More).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _More[key];
-    }
-  });
+Object.defineProperty(exports, 'More', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_More).default;
+  }
 });
 
 var _MoreAlt = require('./icons/MoreAlt');
 
-Object.keys(_MoreAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MoreAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'MoreAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MoreAlt).default;
+  }
 });
 
 var _MoreAltF = require('./icons/MoreAltF');
 
-Object.keys(_MoreAltF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MoreAltF[key];
-    }
-  });
+Object.defineProperty(exports, 'MoreAltF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MoreAltF).default;
+  }
 });
 
 var _MoreF = require('./icons/MoreF');
 
-Object.keys(_MoreF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MoreF[key];
-    }
-  });
+Object.defineProperty(exports, 'MoreF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MoreF).default;
+  }
 });
 
 var _MotorCycle = require('./icons/MotorCycle');
 
-Object.keys(_MotorCycle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _MotorCycle[key];
-    }
-  });
+Object.defineProperty(exports, 'MotorCycle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_MotorCycle).default;
+  }
 });
 
 var _Mountain = require('./icons/Mountain');
 
-Object.keys(_Mountain).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Mountain[key];
-    }
-  });
+Object.defineProperty(exports, 'Mountain', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Mountain).default;
+  }
 });
 
 var _Mountains = require('./icons/Mountains');
 
-Object.keys(_Mountains).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Mountains[key];
-    }
-  });
+Object.defineProperty(exports, 'Mountains', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Mountains).default;
+  }
 });
 
 var _Move = require('./icons/Move');
 
-Object.keys(_Move).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Move[key];
-    }
-  });
+Object.defineProperty(exports, 'Move', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Move).default;
+  }
 });
 
 var _Movie = require('./icons/Movie');
 
-Object.keys(_Movie).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Movie[key];
-    }
-  });
+Object.defineProperty(exports, 'Movie', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Movie).default;
+  }
 });
 
 var _News = require('./icons/News');
 
-Object.keys(_News).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _News[key];
-    }
-  });
+Object.defineProperty(exports, 'News', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_News).default;
+  }
 });
 
 var _Next = require('./icons/Next');
 
-Object.keys(_Next).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Next[key];
-    }
-  });
+Object.defineProperty(exports, 'Next', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Next).default;
+  }
 });
 
 var _NextF = require('./icons/NextF');
 
-Object.keys(_NextF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _NextF[key];
-    }
-  });
+Object.defineProperty(exports, 'NextF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_NextF).default;
+  }
 });
 
 var _OList = require('./icons/OList');
 
-Object.keys(_OList).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _OList[key];
-    }
-  });
+Object.defineProperty(exports, 'OList', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_OList).default;
+  }
 });
 
 var _Outdent = require('./icons/Outdent');
 
-Object.keys(_Outdent).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Outdent[key];
-    }
-  });
+Object.defineProperty(exports, 'Outdent', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Outdent).default;
+  }
 });
 
 var _Padlock = require('./icons/Padlock');
 
-Object.keys(_Padlock).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Padlock[key];
-    }
-  });
+Object.defineProperty(exports, 'Padlock', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Padlock).default;
+  }
 });
 
 var _PadlockAlt = require('./icons/PadlockAlt');
 
-Object.keys(_PadlockAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PadlockAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'PadlockAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PadlockAlt).default;
+  }
 });
 
 var _PadlockAltOpen = require('./icons/PadlockAltOpen');
 
-Object.keys(_PadlockAltOpen).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PadlockAltOpen[key];
-    }
-  });
+Object.defineProperty(exports, 'PadlockAltOpen', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PadlockAltOpen).default;
+  }
 });
 
 var _PadlockF = require('./icons/PadlockF');
 
-Object.keys(_PadlockF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PadlockF[key];
-    }
-  });
+Object.defineProperty(exports, 'PadlockF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PadlockF).default;
+  }
 });
 
 var _PadlockOpen = require('./icons/PadlockOpen');
 
-Object.keys(_PadlockOpen).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PadlockOpen[key];
-    }
-  });
+Object.defineProperty(exports, 'PadlockOpen', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PadlockOpen).default;
+  }
 });
 
 var _PadlockOpenF = require('./icons/PadlockOpenF');
 
-Object.keys(_PadlockOpenF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PadlockOpenF[key];
-    }
-  });
+Object.defineProperty(exports, 'PadlockOpenF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PadlockOpenF).default;
+  }
 });
 
 var _PaperPlane = require('./icons/PaperPlane');
 
-Object.keys(_PaperPlane).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PaperPlane[key];
-    }
-  });
+Object.defineProperty(exports, 'PaperPlane', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PaperPlane).default;
+  }
 });
 
 var _PaperPlaneF = require('./icons/PaperPlaneF');
 
-Object.keys(_PaperPlaneF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PaperPlaneF[key];
-    }
-  });
+Object.defineProperty(exports, 'PaperPlaneF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PaperPlaneF).default;
+  }
 });
 
 var _Paragraph = require('./icons/Paragraph');
 
-Object.keys(_Paragraph).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Paragraph[key];
-    }
-  });
+Object.defineProperty(exports, 'Paragraph', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Paragraph).default;
+  }
 });
 
 var _Pause = require('./icons/Pause');
 
-Object.keys(_Pause).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Pause[key];
-    }
-  });
+Object.defineProperty(exports, 'Pause', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Pause).default;
+  }
 });
 
 var _PauseF = require('./icons/PauseF');
 
-Object.keys(_PauseF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PauseF[key];
-    }
-  });
+Object.defineProperty(exports, 'PauseF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PauseF).default;
+  }
 });
 
 var _Paypal = require('./icons/Paypal');
 
-Object.keys(_Paypal).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Paypal[key];
-    }
-  });
+Object.defineProperty(exports, 'Paypal', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Paypal).default;
+  }
 });
 
 var _Pen = require('./icons/Pen');
 
-Object.keys(_Pen).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Pen[key];
-    }
-  });
+Object.defineProperty(exports, 'Pen', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Pen).default;
+  }
 });
 
 var _Pencil = require('./icons/Pencil');
 
-Object.keys(_Pencil).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Pencil[key];
-    }
-  });
+Object.defineProperty(exports, 'Pencil', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Pencil).default;
+  }
 });
 
 var _Phone = require('./icons/Phone');
 
-Object.keys(_Phone).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Phone[key];
-    }
-  });
+Object.defineProperty(exports, 'Phone', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Phone).default;
+  }
 });
 
 var _Picture = require('./icons/Picture');
 
-Object.keys(_Picture).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Picture[key];
-    }
-  });
+Object.defineProperty(exports, 'Picture', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Picture).default;
+  }
 });
 
 var _Pictures = require('./icons/Pictures');
 
-Object.keys(_Pictures).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Pictures[key];
-    }
-  });
+Object.defineProperty(exports, 'Pictures', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Pictures).default;
+  }
 });
 
 var _PieChart = require('./icons/PieChart');
 
-Object.keys(_PieChart).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PieChart[key];
-    }
-  });
+Object.defineProperty(exports, 'PieChart', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PieChart).default;
+  }
 });
 
 var _PieChartAlt = require('./icons/PieChartAlt');
 
-Object.keys(_PieChartAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PieChartAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'PieChartAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PieChartAlt).default;
+  }
 });
 
 var _Pin = require('./icons/Pin');
 
-Object.keys(_Pin).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Pin[key];
-    }
-  });
+Object.defineProperty(exports, 'Pin', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Pin).default;
+  }
 });
 
 var _PinAlt = require('./icons/PinAlt');
 
-Object.keys(_PinAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PinAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'PinAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PinAlt).default;
+  }
 });
 
 var _PinAltF = require('./icons/PinAltF');
 
-Object.keys(_PinAltF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PinAltF[key];
-    }
-  });
+Object.defineProperty(exports, 'PinAltF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PinAltF).default;
+  }
 });
 
 var _PinF = require('./icons/PinF');
 
-Object.keys(_PinF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PinF[key];
-    }
-  });
+Object.defineProperty(exports, 'PinF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PinF).default;
+  }
 });
 
 var _Pinterest = require('./icons/Pinterest');
 
-Object.keys(_Pinterest).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Pinterest[key];
-    }
-  });
+Object.defineProperty(exports, 'Pinterest', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Pinterest).default;
+  }
 });
 
 var _PinterestCircle = require('./icons/PinterestCircle');
 
-Object.keys(_PinterestCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PinterestCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'PinterestCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PinterestCircle).default;
+  }
 });
 
 var _PinterestSquare = require('./icons/PinterestSquare');
 
-Object.keys(_PinterestSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PinterestSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'PinterestSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PinterestSquare).default;
+  }
 });
 
 var _PizzaSlice = require('./icons/PizzaSlice');
 
-Object.keys(_PizzaSlice).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PizzaSlice[key];
-    }
-  });
+Object.defineProperty(exports, 'PizzaSlice', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PizzaSlice).default;
+  }
 });
 
 var _PizzaSliceF = require('./icons/PizzaSliceF');
 
-Object.keys(_PizzaSliceF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PizzaSliceF[key];
-    }
-  });
+Object.defineProperty(exports, 'PizzaSliceF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PizzaSliceF).default;
+  }
 });
 
 var _Plane = require('./icons/Plane');
 
-Object.keys(_Plane).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Plane[key];
-    }
-  });
+Object.defineProperty(exports, 'Plane', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Plane).default;
+  }
 });
 
 var _Play = require('./icons/Play');
 
-Object.keys(_Play).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Play[key];
-    }
-  });
+Object.defineProperty(exports, 'Play', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Play).default;
+  }
 });
 
 var _PlayF = require('./icons/PlayF');
 
-Object.keys(_PlayF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PlayF[key];
-    }
-  });
+Object.defineProperty(exports, 'PlayF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PlayF).default;
+  }
 });
 
 var _Plug = require('./icons/Plug');
 
-Object.keys(_Plug).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Plug[key];
-    }
-  });
+Object.defineProperty(exports, 'Plug', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Plug).default;
+  }
 });
 
 var _Plus = require('./icons/Plus');
 
-Object.keys(_Plus).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Plus[key];
-    }
-  });
+Object.defineProperty(exports, 'Plus', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Plus).default;
+  }
 });
 
 var _PocketWatch = require('./icons/PocketWatch');
 
-Object.keys(_PocketWatch).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PocketWatch[key];
-    }
-  });
+Object.defineProperty(exports, 'PocketWatch', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PocketWatch).default;
+  }
 });
 
 var _Popcorn = require('./icons/Popcorn');
 
-Object.keys(_Popcorn).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Popcorn[key];
-    }
-  });
+Object.defineProperty(exports, 'Popcorn', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Popcorn).default;
+  }
 });
 
 var _Power = require('./icons/Power');
 
-Object.keys(_Power).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Power[key];
-    }
-  });
+Object.defineProperty(exports, 'Power', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Power).default;
+  }
 });
 
 var _Previous = require('./icons/Previous');
 
-Object.keys(_Previous).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Previous[key];
-    }
-  });
+Object.defineProperty(exports, 'Previous', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Previous).default;
+  }
 });
 
 var _PreviousF = require('./icons/PreviousF');
 
-Object.keys(_PreviousF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _PreviousF[key];
-    }
-  });
+Object.defineProperty(exports, 'PreviousF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_PreviousF).default;
+  }
 });
 
 var _Printer = require('./icons/Printer');
 
-Object.keys(_Printer).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Printer[key];
-    }
-  });
+Object.defineProperty(exports, 'Printer', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Printer).default;
+  }
 });
 
 var _QrScan = require('./icons/QrScan');
 
-Object.keys(_QrScan).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _QrScan[key];
-    }
-  });
+Object.defineProperty(exports, 'QrScan', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_QrScan).default;
+  }
 });
 
 var _Random = require('./icons/Random');
 
-Object.keys(_Random).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Random[key];
-    }
-  });
+Object.defineProperty(exports, 'Random', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Random).default;
+  }
 });
 
 var _Rec = require('./icons/Rec');
 
-Object.keys(_Rec).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Rec[key];
-    }
-  });
+Object.defineProperty(exports, 'Rec', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Rec).default;
+  }
 });
 
 var _RecF = require('./icons/RecF');
 
-Object.keys(_RecF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _RecF[key];
-    }
-  });
+Object.defineProperty(exports, 'RecF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_RecF).default;
+  }
 });
 
 var _Reddit = require('./icons/Reddit');
 
-Object.keys(_Reddit).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Reddit[key];
-    }
-  });
+Object.defineProperty(exports, 'Reddit', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Reddit).default;
+  }
 });
 
 var _Redo = require('./icons/Redo');
 
-Object.keys(_Redo).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Redo[key];
-    }
-  });
+Object.defineProperty(exports, 'Redo', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Redo).default;
+  }
 });
 
 var _Rocket = require('./icons/Rocket');
 
-Object.keys(_Rocket).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Rocket[key];
-    }
-  });
+Object.defineProperty(exports, 'Rocket', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Rocket).default;
+  }
 });
 
 var _RssFeed = require('./icons/RssFeed');
 
-Object.keys(_RssFeed).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _RssFeed[key];
-    }
-  });
+Object.defineProperty(exports, 'RssFeed', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_RssFeed).default;
+  }
 });
 
 var _Rubber = require('./icons/Rubber');
 
-Object.keys(_Rubber).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Rubber[key];
-    }
-  });
+Object.defineProperty(exports, 'Rubber', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Rubber).default;
+  }
 });
 
 var _Ruler = require('./icons/Ruler');
 
-Object.keys(_Ruler).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Ruler[key];
-    }
-  });
+Object.defineProperty(exports, 'Ruler', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Ruler).default;
+  }
 });
 
 var _Scissors = require('./icons/Scissors');
 
-Object.keys(_Scissors).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Scissors[key];
-    }
-  });
+Object.defineProperty(exports, 'Scissors', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Scissors).default;
+  }
 });
 
 var _Screwdriver = require('./icons/Screwdriver');
 
-Object.keys(_Screwdriver).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Screwdriver[key];
-    }
-  });
+Object.defineProperty(exports, 'Screwdriver', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Screwdriver).default;
+  }
 });
 
 var _Search = require('./icons/Search');
 
-Object.keys(_Search).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Search[key];
-    }
-  });
+Object.defineProperty(exports, 'Search', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Search).default;
+  }
 });
 
 var _SetSquare = require('./icons/SetSquare');
 
-Object.keys(_SetSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _SetSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'SetSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_SetSquare).default;
+  }
 });
 
 var _Share = require('./icons/Share');
 
-Object.keys(_Share).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Share[key];
-    }
-  });
+Object.defineProperty(exports, 'Share', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Share).default;
+  }
 });
 
 var _ShareAlt = require('./icons/ShareAlt');
 
-Object.keys(_ShareAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShareAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'ShareAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShareAlt).default;
+  }
 });
 
 var _Shield = require('./icons/Shield');
 
-Object.keys(_Shield).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Shield[key];
-    }
-  });
+Object.defineProperty(exports, 'Shield', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Shield).default;
+  }
 });
 
 var _ShieldCheck = require('./icons/ShieldCheck');
 
-Object.keys(_ShieldCheck).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShieldCheck[key];
-    }
-  });
+Object.defineProperty(exports, 'ShieldCheck', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShieldCheck).default;
+  }
 });
 
 var _ShieldCheckF = require('./icons/ShieldCheckF');
 
-Object.keys(_ShieldCheckF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShieldCheckF[key];
-    }
-  });
+Object.defineProperty(exports, 'ShieldCheckF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShieldCheckF).default;
+  }
 });
 
 var _ShieldError = require('./icons/ShieldError');
 
-Object.keys(_ShieldError).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShieldError[key];
-    }
-  });
+Object.defineProperty(exports, 'ShieldError', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShieldError).default;
+  }
 });
 
 var _ShieldErrorF = require('./icons/ShieldErrorF');
 
-Object.keys(_ShieldErrorF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShieldErrorF[key];
-    }
-  });
+Object.defineProperty(exports, 'ShieldErrorF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShieldErrorF).default;
+  }
 });
 
 var _ShieldF = require('./icons/ShieldF');
 
-Object.keys(_ShieldF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShieldF[key];
-    }
-  });
+Object.defineProperty(exports, 'ShieldF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShieldF).default;
+  }
 });
 
 var _ShieldHalf = require('./icons/ShieldHalf');
 
-Object.keys(_ShieldHalf).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShieldHalf[key];
-    }
-  });
+Object.defineProperty(exports, 'ShieldHalf', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShieldHalf).default;
+  }
 });
 
 var _Shop = require('./icons/Shop');
 
-Object.keys(_Shop).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Shop[key];
-    }
-  });
+Object.defineProperty(exports, 'Shop', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Shop).default;
+  }
 });
 
 var _ShoppingBag = require('./icons/ShoppingBag');
 
-Object.keys(_ShoppingBag).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShoppingBag[key];
-    }
-  });
+Object.defineProperty(exports, 'ShoppingBag', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShoppingBag).default;
+  }
 });
 
 var _ShoppingBagAlt = require('./icons/ShoppingBagAlt');
 
-Object.keys(_ShoppingBagAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShoppingBagAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'ShoppingBagAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShoppingBagAlt).default;
+  }
 });
 
 var _ShoppingBagAltF = require('./icons/ShoppingBagAltF');
 
-Object.keys(_ShoppingBagAltF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShoppingBagAltF[key];
-    }
-  });
+Object.defineProperty(exports, 'ShoppingBagAltF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShoppingBagAltF).default;
+  }
 });
 
 var _ShoppingBagF = require('./icons/ShoppingBagF');
 
-Object.keys(_ShoppingBagF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShoppingBagF[key];
-    }
-  });
+Object.defineProperty(exports, 'ShoppingBagF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShoppingBagF).default;
+  }
 });
 
 var _ShoppingCart = require('./icons/ShoppingCart');
 
-Object.keys(_ShoppingCart).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShoppingCart[key];
-    }
-  });
+Object.defineProperty(exports, 'ShoppingCart', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShoppingCart).default;
+  }
 });
 
 var _ShoppingCartF = require('./icons/ShoppingCartF');
 
-Object.keys(_ShoppingCartF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ShoppingCartF[key];
-    }
-  });
+Object.defineProperty(exports, 'ShoppingCartF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ShoppingCartF).default;
+  }
 });
 
 var _Signal = require('./icons/Signal');
 
-Object.keys(_Signal).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Signal[key];
-    }
-  });
+Object.defineProperty(exports, 'Signal', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Signal).default;
+  }
 });
 
 var _Slack = require('./icons/Slack');
 
-Object.keys(_Slack).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Slack[key];
-    }
-  });
+Object.defineProperty(exports, 'Slack', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Slack).default;
+  }
 });
 
 var _Smiley = require('./icons/Smiley');
 
-Object.keys(_Smiley).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Smiley[key];
-    }
-  });
+Object.defineProperty(exports, 'Smiley', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Smiley).default;
+  }
 });
 
 var _Snapchat = require('./icons/Snapchat');
 
-Object.keys(_Snapchat).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Snapchat[key];
-    }
-  });
+Object.defineProperty(exports, 'Snapchat', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Snapchat).default;
+  }
 });
 
 var _SnapchatCircle = require('./icons/SnapchatCircle');
 
-Object.keys(_SnapchatCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _SnapchatCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'SnapchatCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_SnapchatCircle).default;
+  }
 });
 
 var _SnapchatSquare = require('./icons/SnapchatSquare');
 
-Object.keys(_SnapchatSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _SnapchatSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'SnapchatSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_SnapchatSquare).default;
+  }
 });
 
 var _Snowboard = require('./icons/Snowboard');
 
-Object.keys(_Snowboard).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Snowboard[key];
-    }
-  });
+Object.defineProperty(exports, 'Snowboard', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Snowboard).default;
+  }
 });
 
 var _Snowflake = require('./icons/Snowflake');
 
-Object.keys(_Snowflake).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Snowflake[key];
-    }
-  });
+Object.defineProperty(exports, 'Snowflake', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Snowflake).default;
+  }
 });
 
 var _Soccer = require('./icons/Soccer');
 
-Object.keys(_Soccer).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Soccer[key];
-    }
-  });
+Object.defineProperty(exports, 'Soccer', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Soccer).default;
+  }
 });
 
 var _Soundcloud = require('./icons/Soundcloud');
 
-Object.keys(_Soundcloud).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Soundcloud[key];
-    }
-  });
+Object.defineProperty(exports, 'Soundcloud', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Soundcloud).default;
+  }
 });
 
 var _Speaker = require('./icons/Speaker');
 
-Object.keys(_Speaker).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Speaker[key];
-    }
-  });
+Object.defineProperty(exports, 'Speaker', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Speaker).default;
+  }
 });
 
 var _SplitH = require('./icons/SplitH');
 
-Object.keys(_SplitH).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _SplitH[key];
-    }
-  });
+Object.defineProperty(exports, 'SplitH', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_SplitH).default;
+  }
 });
 
 var _SplitV = require('./icons/SplitV');
 
-Object.keys(_SplitV).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _SplitV[key];
-    }
-  });
+Object.defineProperty(exports, 'SplitV', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_SplitV).default;
+  }
 });
 
 var _Spotify = require('./icons/Spotify');
 
-Object.keys(_Spotify).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Spotify[key];
-    }
-  });
+Object.defineProperty(exports, 'Spotify', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Spotify).default;
+  }
 });
 
 var _SpotifyCircle = require('./icons/SpotifyCircle');
 
-Object.keys(_SpotifyCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _SpotifyCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'SpotifyCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_SpotifyCircle).default;
+  }
 });
 
 var _SpotifySquare = require('./icons/SpotifySquare');
 
-Object.keys(_SpotifySquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _SpotifySquare[key];
-    }
-  });
+Object.defineProperty(exports, 'SpotifySquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_SpotifySquare).default;
+  }
 });
 
 var _StackOverflow = require('./icons/StackOverflow');
 
-Object.keys(_StackOverflow).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _StackOverflow[key];
-    }
-  });
+Object.defineProperty(exports, 'StackOverflow', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_StackOverflow).default;
+  }
 });
 
 var _Stamp = require('./icons/Stamp');
 
-Object.keys(_Stamp).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Stamp[key];
-    }
-  });
+Object.defineProperty(exports, 'Stamp', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Stamp).default;
+  }
 });
 
 var _Star = require('./icons/Star');
 
-Object.keys(_Star).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Star[key];
-    }
-  });
+Object.defineProperty(exports, 'Star', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Star).default;
+  }
 });
 
 var _StarF = require('./icons/StarF');
 
-Object.keys(_StarF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _StarF[key];
-    }
-  });
+Object.defineProperty(exports, 'StarF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_StarF).default;
+  }
 });
 
 var _StarHalf = require('./icons/StarHalf');
 
-Object.keys(_StarHalf).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _StarHalf[key];
-    }
-  });
+Object.defineProperty(exports, 'StarHalf', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_StarHalf).default;
+  }
 });
 
 var _Stop = require('./icons/Stop');
 
-Object.keys(_Stop).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Stop[key];
-    }
-  });
+Object.defineProperty(exports, 'Stop', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Stop).default;
+  }
 });
 
 var _StopF = require('./icons/StopF');
 
-Object.keys(_StopF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _StopF[key];
-    }
-  });
+Object.defineProperty(exports, 'StopF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_StopF).default;
+  }
 });
 
 var _StopSign = require('./icons/StopSign');
 
-Object.keys(_StopSign).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _StopSign[key];
-    }
-  });
+Object.defineProperty(exports, 'StopSign', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_StopSign).default;
+  }
 });
 
 var _Strikethrough = require('./icons/Strikethrough');
 
-Object.keys(_Strikethrough).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Strikethrough[key];
-    }
-  });
+Object.defineProperty(exports, 'Strikethrough', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Strikethrough).default;
+  }
 });
 
 var _Sword = require('./icons/Sword');
 
-Object.keys(_Sword).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Sword[key];
-    }
-  });
+Object.defineProperty(exports, 'Sword', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Sword).default;
+  }
 });
 
 var _Table = require('./icons/Table');
 
-Object.keys(_Table).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Table[key];
-    }
-  });
+Object.defineProperty(exports, 'Table', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Table).default;
+  }
 });
 
 var _Tag = require('./icons/Tag');
 
-Object.keys(_Tag).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Tag[key];
-    }
-  });
+Object.defineProperty(exports, 'Tag', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Tag).default;
+  }
 });
 
 var _TagF = require('./icons/TagF');
 
-Object.keys(_TagF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TagF[key];
-    }
-  });
+Object.defineProperty(exports, 'TagF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TagF).default;
+  }
 });
 
 var _Tags = require('./icons/Tags');
 
-Object.keys(_Tags).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Tags[key];
-    }
-  });
+Object.defineProperty(exports, 'Tags', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Tags).default;
+  }
 });
 
 var _TagsF = require('./icons/TagsF');
 
-Object.keys(_TagsF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TagsF[key];
-    }
-  });
+Object.defineProperty(exports, 'TagsF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TagsF).default;
+  }
 });
 
 var _Target = require('./icons/Target');
 
-Object.keys(_Target).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Target[key];
-    }
-  });
+Object.defineProperty(exports, 'Target', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Target).default;
+  }
 });
 
 var _Task = require('./icons/Task');
 
-Object.keys(_Task).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Task[key];
-    }
-  });
+Object.defineProperty(exports, 'Task', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Task).default;
+  }
 });
 
 var _ThermometerEmpty = require('./icons/ThermometerEmpty');
 
-Object.keys(_ThermometerEmpty).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ThermometerEmpty[key];
-    }
-  });
+Object.defineProperty(exports, 'ThermometerEmpty', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ThermometerEmpty).default;
+  }
 });
 
 var _ThermometerFull = require('./icons/ThermometerFull');
 
-Object.keys(_ThermometerFull).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ThermometerFull[key];
-    }
-  });
+Object.defineProperty(exports, 'ThermometerFull', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ThermometerFull).default;
+  }
 });
 
 var _Thunder = require('./icons/Thunder');
 
-Object.keys(_Thunder).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Thunder[key];
-    }
-  });
+Object.defineProperty(exports, 'Thunder', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Thunder).default;
+  }
 });
 
 var _ThunderF = require('./icons/ThunderF');
 
-Object.keys(_ThunderF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ThunderF[key];
-    }
-  });
+Object.defineProperty(exports, 'ThunderF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ThunderF).default;
+  }
 });
 
 var _Ticket = require('./icons/Ticket');
 
-Object.keys(_Ticket).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Ticket[key];
-    }
-  });
+Object.defineProperty(exports, 'Ticket', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Ticket).default;
+  }
 });
 
 var _Time = require('./icons/Time');
 
-Object.keys(_Time).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Time[key];
-    }
-  });
+Object.defineProperty(exports, 'Time', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Time).default;
+  }
 });
 
 var _Tools = require('./icons/Tools');
 
-Object.keys(_Tools).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Tools[key];
-    }
-  });
+Object.defineProperty(exports, 'Tools', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Tools).default;
+  }
 });
 
 var _Torch = require('./icons/Torch');
 
-Object.keys(_Torch).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Torch[key];
-    }
-  });
+Object.defineProperty(exports, 'Torch', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Torch).default;
+  }
 });
 
 var _Totem = require('./icons/Totem');
 
-Object.keys(_Totem).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Totem[key];
-    }
-  });
+Object.defineProperty(exports, 'Totem', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Totem).default;
+  }
 });
 
 var _Train = require('./icons/Train');
 
-Object.keys(_Train).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Train[key];
-    }
-  });
+Object.defineProperty(exports, 'Train', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Train).default;
+  }
 });
 
 var _Transgender = require('./icons/Transgender');
 
-Object.keys(_Transgender).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Transgender[key];
-    }
-  });
+Object.defineProperty(exports, 'Transgender', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Transgender).default;
+  }
 });
 
 var _Trash = require('./icons/Trash');
 
-Object.keys(_Trash).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Trash[key];
-    }
-  });
+Object.defineProperty(exports, 'Trash', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Trash).default;
+  }
 });
 
 var _TrashAlt = require('./icons/TrashAlt');
 
-Object.keys(_TrashAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TrashAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'TrashAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TrashAlt).default;
+  }
 });
 
 var _TrashF = require('./icons/TrashF');
 
-Object.keys(_TrashF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TrashF[key];
-    }
-  });
+Object.defineProperty(exports, 'TrashF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TrashF).default;
+  }
 });
 
 var _Tree = require('./icons/Tree');
 
-Object.keys(_Tree).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Tree[key];
-    }
-  });
+Object.defineProperty(exports, 'Tree', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Tree).default;
+  }
 });
 
 var _TreeAlt = require('./icons/TreeAlt');
 
-Object.keys(_TreeAlt).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TreeAlt[key];
-    }
-  });
+Object.defineProperty(exports, 'TreeAlt', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TreeAlt).default;
+  }
 });
 
 var _TreeAltF = require('./icons/TreeAltF');
 
-Object.keys(_TreeAltF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TreeAltF[key];
-    }
-  });
+Object.defineProperty(exports, 'TreeAltF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TreeAltF).default;
+  }
 });
 
 var _TreeF = require('./icons/TreeF');
 
-Object.keys(_TreeF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TreeF[key];
-    }
-  });
+Object.defineProperty(exports, 'TreeF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TreeF).default;
+  }
 });
 
 var _Trophy = require('./icons/Trophy');
 
-Object.keys(_Trophy).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Trophy[key];
-    }
-  });
+Object.defineProperty(exports, 'Trophy', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Trophy).default;
+  }
 });
 
 var _Tube = require('./icons/Tube');
 
-Object.keys(_Tube).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Tube[key];
-    }
-  });
+Object.defineProperty(exports, 'Tube', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Tube).default;
+  }
 });
 
 var _Tumblr = require('./icons/Tumblr');
 
-Object.keys(_Tumblr).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Tumblr[key];
-    }
-  });
+Object.defineProperty(exports, 'Tumblr', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Tumblr).default;
+  }
 });
 
 var _TumblrCircle = require('./icons/TumblrCircle');
 
-Object.keys(_TumblrCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TumblrCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'TumblrCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TumblrCircle).default;
+  }
 });
 
 var _TumblrSquare = require('./icons/TumblrSquare');
 
-Object.keys(_TumblrSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TumblrSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'TumblrSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TumblrSquare).default;
+  }
 });
 
 var _Twitch = require('./icons/Twitch');
 
-Object.keys(_Twitch).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Twitch[key];
-    }
-  });
+Object.defineProperty(exports, 'Twitch', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Twitch).default;
+  }
 });
 
 var _Twitter = require('./icons/Twitter');
 
-Object.keys(_Twitter).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Twitter[key];
-    }
-  });
+Object.defineProperty(exports, 'Twitter', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Twitter).default;
+  }
 });
 
 var _TwitterCircle = require('./icons/TwitterCircle');
 
-Object.keys(_TwitterCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TwitterCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'TwitterCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TwitterCircle).default;
+  }
 });
 
 var _TwitterSquare = require('./icons/TwitterSquare');
 
-Object.keys(_TwitterSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _TwitterSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'TwitterSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_TwitterSquare).default;
+  }
 });
 
 var _UList = require('./icons/UList');
 
-Object.keys(_UList).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _UList[key];
-    }
-  });
+Object.defineProperty(exports, 'UList', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_UList).default;
+  }
 });
 
 var _Umbrella = require('./icons/Umbrella');
 
-Object.keys(_Umbrella).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Umbrella[key];
-    }
-  });
+Object.defineProperty(exports, 'Umbrella', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Umbrella).default;
+  }
 });
 
 var _UmbrellaF = require('./icons/UmbrellaF');
 
-Object.keys(_UmbrellaF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _UmbrellaF[key];
-    }
-  });
+Object.defineProperty(exports, 'UmbrellaF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_UmbrellaF).default;
+  }
 });
 
 var _Underline = require('./icons/Underline');
 
-Object.keys(_Underline).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Underline[key];
-    }
-  });
+Object.defineProperty(exports, 'Underline', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Underline).default;
+  }
 });
 
 var _Undo = require('./icons/Undo');
 
-Object.keys(_Undo).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Undo[key];
-    }
-  });
+Object.defineProperty(exports, 'Undo', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Undo).default;
+  }
 });
 
 var _Universe = require('./icons/Universe');
 
-Object.keys(_Universe).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Universe[key];
-    }
-  });
+Object.defineProperty(exports, 'Universe', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Universe).default;
+  }
 });
 
 var _Upload = require('./icons/Upload');
 
-Object.keys(_Upload).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Upload[key];
-    }
-  });
+Object.defineProperty(exports, 'Upload', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Upload).default;
+  }
 });
 
 var _User = require('./icons/User');
 
-Object.keys(_User).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _User[key];
-    }
-  });
+Object.defineProperty(exports, 'User', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_User).default;
+  }
 });
 
 var _UserF = require('./icons/UserF');
 
-Object.keys(_UserF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _UserF[key];
-    }
-  });
+Object.defineProperty(exports, 'UserF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_UserF).default;
+  }
 });
 
 var _Users = require('./icons/Users');
 
-Object.keys(_Users).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Users[key];
-    }
-  });
+Object.defineProperty(exports, 'Users', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Users).default;
+  }
 });
 
 var _UsersF = require('./icons/UsersF');
 
-Object.keys(_UsersF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _UsersF[key];
-    }
-  });
+Object.defineProperty(exports, 'UsersF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_UsersF).default;
+  }
 });
 
 var _Viadeo = require('./icons/Viadeo');
 
-Object.keys(_Viadeo).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Viadeo[key];
-    }
-  });
+Object.defineProperty(exports, 'Viadeo', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Viadeo).default;
+  }
 });
 
 var _VideoCamera = require('./icons/VideoCamera');
 
-Object.keys(_VideoCamera).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VideoCamera[key];
-    }
-  });
+Object.defineProperty(exports, 'VideoCamera', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VideoCamera).default;
+  }
 });
 
 var _VideoCameraVintage = require('./icons/VideoCameraVintage');
 
-Object.keys(_VideoCameraVintage).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VideoCameraVintage[key];
-    }
-  });
+Object.defineProperty(exports, 'VideoCameraVintage', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VideoCameraVintage).default;
+  }
 });
 
 var _Vimeo = require('./icons/Vimeo');
 
-Object.keys(_Vimeo).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Vimeo[key];
-    }
-  });
+Object.defineProperty(exports, 'Vimeo', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Vimeo).default;
+  }
 });
 
 var _VimeoCircle = require('./icons/VimeoCircle');
 
-Object.keys(_VimeoCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VimeoCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'VimeoCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VimeoCircle).default;
+  }
 });
 
 var _VimeoSquare = require('./icons/VimeoSquare');
 
-Object.keys(_VimeoSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VimeoSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'VimeoSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VimeoSquare).default;
+  }
 });
 
 var _Vine = require('./icons/Vine');
 
-Object.keys(_Vine).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Vine[key];
-    }
-  });
+Object.defineProperty(exports, 'Vine', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Vine).default;
+  }
 });
 
 var _VineCircle = require('./icons/VineCircle');
 
-Object.keys(_VineCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VineCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'VineCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VineCircle).default;
+  }
 });
 
 var _VineSquare = require('./icons/VineSquare');
 
-Object.keys(_VineSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VineSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'VineSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VineSquare).default;
+  }
 });
 
 var _Voicemail = require('./icons/Voicemail');
 
-Object.keys(_Voicemail).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Voicemail[key];
-    }
-  });
+Object.defineProperty(exports, 'Voicemail', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Voicemail).default;
+  }
 });
 
 var _Volume = require('./icons/Volume');
 
-Object.keys(_Volume).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Volume[key];
-    }
-  });
+Object.defineProperty(exports, 'Volume', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Volume).default;
+  }
 });
 
 var _VolumeDown = require('./icons/VolumeDown');
 
-Object.keys(_VolumeDown).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VolumeDown[key];
-    }
-  });
+Object.defineProperty(exports, 'VolumeDown', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VolumeDown).default;
+  }
 });
 
 var _VolumeDownF = require('./icons/VolumeDownF');
 
-Object.keys(_VolumeDownF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VolumeDownF[key];
-    }
-  });
+Object.defineProperty(exports, 'VolumeDownF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VolumeDownF).default;
+  }
 });
 
 var _VolumeF = require('./icons/VolumeF');
 
-Object.keys(_VolumeF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VolumeF[key];
-    }
-  });
+Object.defineProperty(exports, 'VolumeF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VolumeF).default;
+  }
 });
 
 var _VolumeMute = require('./icons/VolumeMute');
 
-Object.keys(_VolumeMute).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VolumeMute[key];
-    }
-  });
+Object.defineProperty(exports, 'VolumeMute', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VolumeMute).default;
+  }
 });
 
 var _VolumeMuteF = require('./icons/VolumeMuteF');
 
-Object.keys(_VolumeMuteF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VolumeMuteF[key];
-    }
-  });
+Object.defineProperty(exports, 'VolumeMuteF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VolumeMuteF).default;
+  }
 });
 
 var _VolumeUp = require('./icons/VolumeUp');
 
-Object.keys(_VolumeUp).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VolumeUp[key];
-    }
-  });
+Object.defineProperty(exports, 'VolumeUp', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VolumeUp).default;
+  }
 });
 
 var _VolumeUpF = require('./icons/VolumeUpF');
 
-Object.keys(_VolumeUpF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _VolumeUpF[key];
-    }
-  });
+Object.defineProperty(exports, 'VolumeUpF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_VolumeUpF).default;
+  }
 });
 
 var _WaterDrop = require('./icons/WaterDrop');
 
-Object.keys(_WaterDrop).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _WaterDrop[key];
-    }
-  });
+Object.defineProperty(exports, 'WaterDrop', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_WaterDrop).default;
+  }
 });
 
 var _WaterDropF = require('./icons/WaterDropF');
 
-Object.keys(_WaterDropF).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _WaterDropF[key];
-    }
-  });
+Object.defineProperty(exports, 'WaterDropF', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_WaterDropF).default;
+  }
 });
 
 var _Whatsapp = require('./icons/Whatsapp');
 
-Object.keys(_Whatsapp).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Whatsapp[key];
-    }
-  });
+Object.defineProperty(exports, 'Whatsapp', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Whatsapp).default;
+  }
 });
 
 var _Wheel = require('./icons/Wheel');
 
-Object.keys(_Wheel).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Wheel[key];
-    }
-  });
+Object.defineProperty(exports, 'Wheel', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Wheel).default;
+  }
 });
 
 var _Wifi = require('./icons/Wifi');
 
-Object.keys(_Wifi).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Wifi[key];
-    }
-  });
+Object.defineProperty(exports, 'Wifi', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Wifi).default;
+  }
 });
 
 var _Wikipedia = require('./icons/Wikipedia');
 
-Object.keys(_Wikipedia).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Wikipedia[key];
-    }
-  });
+Object.defineProperty(exports, 'Wikipedia', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Wikipedia).default;
+  }
 });
 
 var _WikipediaCircle = require('./icons/WikipediaCircle');
 
-Object.keys(_WikipediaCircle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _WikipediaCircle[key];
-    }
-  });
+Object.defineProperty(exports, 'WikipediaCircle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_WikipediaCircle).default;
+  }
 });
 
 var _WikipediaSquare = require('./icons/WikipediaSquare');
 
-Object.keys(_WikipediaSquare).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _WikipediaSquare[key];
-    }
-  });
+Object.defineProperty(exports, 'WikipediaSquare', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_WikipediaSquare).default;
+  }
 });
 
 var _WineBottle = require('./icons/WineBottle');
 
-Object.keys(_WineBottle).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _WineBottle[key];
-    }
-  });
+Object.defineProperty(exports, 'WineBottle', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_WineBottle).default;
+  }
 });
 
 var _Wordpress = require('./icons/Wordpress');
 
-Object.keys(_Wordpress).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Wordpress[key];
-    }
-  });
+Object.defineProperty(exports, 'Wordpress', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Wordpress).default;
+  }
 });
 
 var _Wrench = require('./icons/Wrench');
 
-Object.keys(_Wrench).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Wrench[key];
-    }
-  });
+Object.defineProperty(exports, 'Wrench', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Wrench).default;
+  }
 });
 
 var _Write = require('./icons/Write');
 
-Object.keys(_Write).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Write[key];
-    }
-  });
+Object.defineProperty(exports, 'Write', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Write).default;
+  }
 });
 
 var _Yahoo = require('./icons/Yahoo');
 
-Object.keys(_Yahoo).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Yahoo[key];
-    }
-  });
+Object.defineProperty(exports, 'Yahoo', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Yahoo).default;
+  }
 });
 
 var _Yelp = require('./icons/Yelp');
 
-Object.keys(_Yelp).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Yelp[key];
-    }
-  });
+Object.defineProperty(exports, 'Yelp', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Yelp).default;
+  }
 });
 
 var _Youtube = require('./icons/Youtube');
 
-Object.keys(_Youtube).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _Youtube[key];
-    }
-  });
+Object.defineProperty(exports, 'Youtube', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_Youtube).default;
+  }
 });
 
 var _ZoomMinus = require('./icons/ZoomMinus');
 
-Object.keys(_ZoomMinus).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ZoomMinus[key];
-    }
-  });
+Object.defineProperty(exports, 'ZoomMinus', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ZoomMinus).default;
+  }
 });
 
 var _ZoomPlus = require('./icons/ZoomPlus');
 
-Object.keys(_ZoomPlus).forEach(function (key) {
-  if (key === "default" || key === "__esModule") return;
-  Object.defineProperty(exports, key, {
-    enumerable: true,
-    get: function get() {
-      return _ZoomPlus[key];
-    }
-  });
+Object.defineProperty(exports, 'ZoomPlus', {
+  enumerable: true,
+  get: function get() {
+    return _interopRequireDefault(_ZoomPlus).default;
+  }
 });
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
