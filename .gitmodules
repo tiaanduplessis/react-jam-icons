@@ -1,0 +1,3 @@
+[submodule "jam"]
+	path = jam
+	url = https://github.com/michaelampr/jam.git

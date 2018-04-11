@@ -1,0 +1,12 @@
+import React from "react";
+
+const Hashtag = props => (
+  <svg viewBox="0 0 64 64" {...props}>
+    <path
+      d="M61 41H46V23h15c1.7 0 3-1.3 3-3s-1.3-3-3-3H46V3c0-1.7-1.3-3-3-3s-3 1.3-3 3v14H22V3c0-1.7-1.3-3-3-3s-3 1.3-3 3v14H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h13v18H3c-1.7 0-3 1.3-3 3s1.3 3 3 3h13v14c0 1.7 1.3 3 3 3s3-1.3 3-3V47h18v14c0 1.7 1.3 3 3 3s3-1.3 3-3V47h15c1.7 0 3-1.3 3-3s-1.3-3-3-3zm-21 0H22V23h18v18z"
+      fill="#333"
+    />
+  </svg>
+);
+
+export default Hashtag;

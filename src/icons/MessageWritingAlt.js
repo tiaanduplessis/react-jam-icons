@@ -1,0 +1,15 @@
+import React from "react";
+
+const MessageWritingAlt = props => (
+  <svg viewBox="0 0 64 63" {...props}>
+    <path
+      className="st0"
+      d="M53 0H11C4.9 0 0 4.9 0 11v26c0 6.1 4.9 11 11 11h21.3l19.3 14.3c1.3 1 2.2.4 2-1.2L52 48l4-.4c4.6-1.3 8-5.5 8-10.6V11c0-6.1-4.9-11-11-11zm7 37c0 3.9-3.1 7-7 7h-5.5l1.4 11.3L33.6 44H11c-3.9 0-7-3.1-7-7V11c0-3.9 3.1-7 7-7h42c3.9 0 7 3.1 7 7v26z"
+    />
+    <circle className="st0" cx={20} cy={25} r={4} />
+    <circle className="st0" cx={32} cy={25} r={4} />
+    <circle className="st0" cx={44} cy={25} r={4} />
+  </svg>
+);
+
+export default MessageWritingAlt;

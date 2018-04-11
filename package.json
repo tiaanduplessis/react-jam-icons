@@ -1,0 +1,23 @@
+{
+  "name": "react-jam-icons",
+  "version": "1.0.0",
+  "description": "Jam icons as React Components via svgr",
+  "main": "src/index.js",
+  "repository": "https://github.com/tiaanduplessis/react-jam-icons.git",
+  "author": "Tiaan du Plessis",
+  "license": "MIT",
+  "scripts": {
+    "build": "svgr -d src/icons jam/svg && node build.js && babel src --out-dir dist"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "svgr": "^1.9.1"
+  },
+  "keywords": [
+    "svg",
+    "icons",
+    "jam"
+  ]
+}

@@ -1,0 +1,26 @@
+"use strict";
+
+Object.defineProperty(exports, "__esModule", {
+  value: true
+});
+
+var _extends = Object.assign || function (target) { for (var i = 1; i < arguments.length; i++) { var source = arguments[i]; for (var key in source) { if (Object.prototype.hasOwnProperty.call(source, key)) { target[key] = source[key]; } } } return target; };
+
+var _react = require("react");
+
+var _react2 = _interopRequireDefault(_react);
+
+function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { default: obj }; }
+
+var VolumeUpF = function VolumeUpF(props) {
+  return _react2.default.createElement(
+    "svg",
+    _extends({ viewBox: "0 0 58 64" }, props),
+    _react2.default.createElement("path", {
+      d: "M27.7 1.6L10.4 20.3H2c-1.1 0-2 .9-2 2v20.4c0 1.1.9 2 2 2h8.6l17.2 18.6c1.1 1.2 2 .9 2-.8V2.4c0-1.7-.9-2-2.1-.8zM34 8v6c9.9 0 18 8.1 18 18s-8.1 18-18 18v6c13.3 0 24-10.7 24-24S47.3 8 34 8zm11 24c0-6.1-4.9-11-11-11v6c2.8 0 5 2.2 5 5s-2.2 5-5 5v6c6.1 0 11-4.9 11-11z",
+      fill: "#333"
+    })
+  );
+};
+
+exports.default = VolumeUpF;

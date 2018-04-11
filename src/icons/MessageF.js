@@ -1,0 +1,12 @@
+import React from "react";
+
+const MessageF = props => (
+  <svg viewBox="0 0 64 64" {...props}>
+    <path
+      d="M64 25.5C64 11.4 49.7 0 32 0S0 11.4 0 25.5 14.3 51 32 51c3.2 0 18.3 13.4 21.2 12.7 2.5-.6-3.3-17-2.4-17.6C58.8 41.5 64 34 64 25.5z"
+      fill="#333"
+    />
+  </svg>
+);
+
+export default MessageF;
